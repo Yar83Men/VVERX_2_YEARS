@@ -34,7 +34,7 @@ body{
     text-shadow: 3px 3px 3px orange, 4px 4px 4px rgb(251, 51, 51);
 }
 .year2-div img{
-    border-radius: 100%;
+    border-radius: 20px;
 }
 
 .light{
@@ -51,7 +51,10 @@ body{
     padding: 10px 0 10px 0;
     margin-top:-10px;
 }
-
+.two{
+    width:100px;
+    border-radius:none;
+}
 @keyframes lg{
     0%{
         background-color: rgb(42, 230, 255);
